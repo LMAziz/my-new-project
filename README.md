@@ -17,10 +17,6 @@ This project solve problems like:
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Basketball](https://startalkmedia.com/wp-content/uploads/2020/08/SecondSpectrum_Image-1400x744.png)
 
 
