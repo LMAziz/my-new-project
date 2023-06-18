@@ -14,7 +14,6 @@ This project solve problems like:
 * Player Tracking
 * Injury Prevention
 
-
 ## How is it used?
 
 ![Basketball](https://startalkmedia.com/wp-content/uploads/2020/08/SecondSpectrum_Image-1400x744.png)
